@@ -1,31 +1,9 @@
-# Moritz Pollert
+**TL;DR:** Developer based in Münster, Germany, with a background in conversational AI, service automation and software development. Founder of [Metovia](https://metovia.de).
 
-**Conversational AI · Software Development · Founder of [Metovia](https://metovia.de)**
-
-I'm a developer based in Münster, Germany, with a professional background in conversational AI, customer service automation and digital product development.
-
-My work focuses on automation systems, API integrations and SaaS development.
-
-### Technology Stack
-
-**Languages:** `TypeScript`, `JavaScript`, `SQL`  
-**Frameworks & Runtime:** `Node.js`, `Next.js`, `React`  
-**Database & Infrastructure:** `PostgreSQL`, `Supabase`, `Vercel`  
-**Conversational AI:** `Cognigy`
+My tech stack includes `TypeScript`, `JavaScript`, `Node.js`, `Next.js`, `React`, `PostgreSQL`, `Supabase`, `Vercel` and `Cognigy`.
 
 ### Currently Building
 
-**[Metovia](https://metovia.de)**
-
-A SaaS platform for content management, knowledge management and conversational AI.
+**[Metovia](https://metovia.de)** — A SaaS platform for content management, knowledge management and conversational AI.
 
 [Website](https://metovia.de) · [Documentation](https://docs.metovia.de) · [Developer Documentation](https://developer.metovia.de)
-
-### Areas of Expertise
-
-- Conversational AI & Agent Architecture
-- Customer Service Automation
-- Full-Stack Development
-- REST API Design & Integrations
-- SaaS Product Development
-- Knowledge Management & Retrieval-Augmented Generation (RAG)
